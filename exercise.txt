@@ -1,1 +1,3 @@
-this is exercise git
+this is exercise GIT
+
+Adding new line
